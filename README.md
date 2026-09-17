@@ -4,7 +4,7 @@
   <p><b>UX/UI Designer & Systems Administrator</b></p>
 
   <p>
-    <i>Diseñando experiencias digitales intuitivas y construyendo infraestructuras sólidas.</i>
+    <i>Diseñando experiencias digitales intuitivas</i>
   </p>
 
   <p>
